@@ -1,0 +1,13 @@
+.bg-dark{
+  background-color: #2b2d42;
+}
+.icon:hover{
+  color: #d90429 !important;
+  transform: scale(1.2);
+}
+.mt-50vh{
+  margin-top: 60vh;
+}
+.footer{
+  height: 170px;
+}
